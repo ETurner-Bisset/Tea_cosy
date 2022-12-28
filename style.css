@@ -40,9 +40,10 @@ nav a li {
     
 }
 .background-image {
-    background-image: url(https:content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg);
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg?_gl=1*1xcnoxf*_ga*OTU1MDA0NzA5Ny4xNjY4ODU5MTkz*_ga_3LRZM6TM9L*MTY3MjIzODc2NS45MC4wLjE2NzIyMzg3NjUuMC4wLjA.);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     height: 700px;
     width: 1200px;
     margin: 40px auto 40px auto;
